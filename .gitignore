@@ -1,0 +1,16 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+target/
+**/dependency-reduced-pom.xml
+
+# IDE files (IntelliJ and Eclipse)
+*.iml
+.idea
+.classpath
+.settings
+.project
+.checkstyle
